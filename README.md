@@ -16,4 +16,7 @@ Step 1 : Collecting Data</br>
 Step 2 : Exploring and preparing the data</br>
 Step 3 : Training a model on data</br>
 Step 4 : Evaluating the model performance</br>
-Step 5 : Improving the model performance
+Step 5 : Improving the model performance</br></br>
+
+
+<i><bold>Please clone the file in order to watch the html file in order to see the results of the code</bold><i>
