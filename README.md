@@ -9,7 +9,6 @@ The data is related with marketing campaigns of a Portugese banking institution.
 more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no')
 subscribed. The classification goal is to predict if the client will subscribe to term deposit.
 
-
 STEPS FOLLOWED IN THIS PROJECT :
 
 CRISP DM
