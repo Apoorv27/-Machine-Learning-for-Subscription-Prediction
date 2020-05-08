@@ -13,7 +13,6 @@ subscribed. The classification goal is to predict if the client will subscribe t
 STEPS FOLLOWED IN THIS PROJECT :
 
 CRISP DM
-
 Step 1 : Collecting Data
 Step 2 : Exploring and preparing the data
 Step 3 : Training a model on data
